@@ -20,8 +20,3 @@ This project is a simple ML-powered Streamlit web app that predicts whether a br
 - `requirements.txt`: Python dependencies
 - `README.md`: Project overview
 
-## ✅ How to Run Locally
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
